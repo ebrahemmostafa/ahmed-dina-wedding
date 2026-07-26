@@ -711,7 +711,7 @@
               "heroOverlayStrength": 100,
               "heroOverlayDirection": "bottom",
               "heroOverlayHeight": 59,
-              "backgroundOverlayColor": "#ac5d5d",
+              "backgroundOverlayColor": "#c86414",
               "backgroundMediaZoom": 101,
               "backgroundMediaPosX": 50,
               "backgroundMediaPosY": 50
@@ -13010,7 +13010,7 @@
                 "heroOverlayStrength": 100,
                 "heroOverlayDirection": "bottom",
                 "heroOverlayHeight": 59,
-                "backgroundOverlayColor": "#ac5d5d",
+                "backgroundOverlayColor": "#c86414",
                 "backgroundMediaZoom": 101,
                 "backgroundMediaPosX": 50,
                 "backgroundMediaPosY": 50
@@ -25449,7 +25449,7 @@
                 "heroOverlayStrength": 100,
                 "heroOverlayDirection": "bottom",
                 "heroOverlayHeight": 59,
-                "backgroundOverlayColor": "#ac5d5d",
+                "backgroundOverlayColor": "#c86414",
                 "backgroundMediaZoom": 101,
                 "backgroundMediaPosX": 50,
                 "backgroundMediaPosY": 50
@@ -37767,7 +37767,7 @@
             "heroOverlayStrength": 100,
             "heroOverlayDirection": "bottom",
             "heroOverlayHeight": 59,
-            "backgroundOverlayColor": "#ac5d5d",
+            "backgroundOverlayColor": "#c86414",
             "backgroundMediaZoom": 101,
             "backgroundMediaPosX": 50,
             "backgroundMediaPosY": 50
