@@ -1962,7 +1962,7 @@
               "backgroundMediaPosY": 55
             },
             "blockBackgroundColor": null,
-            "blockBackgroundImage": "./assets/images/background-3.jpg",
+            "blockBackgroundImage": "./assets/images/bg-section-swapped.jpg",
             "blockFullWidth": false,
             "heroBlockGlass": false,
             "heroBlockGlassBlur": 1,
@@ -12239,7 +12239,7 @@
       },
       "background": {
         "mode": "media",
-        "backgroundImage": "./assets/images/background-1.jpg",
+        "backgroundImage": "./assets/images/bg-main-swapped.jpg",
         "backgroundVideo": null,
         "backgroundMediaZoom": 100,
         "backgroundMediaPosX": 50,
@@ -14261,7 +14261,7 @@
                 "backgroundMediaPosY": 55
               },
               "blockBackgroundColor": null,
-              "blockBackgroundImage": "./assets/images/background-3.jpg",
+              "blockBackgroundImage": "./assets/images/bg-section-swapped.jpg",
               "blockFullWidth": false,
               "heroBlockGlass": false,
               "heroBlockGlassBlur": 1,
@@ -24538,7 +24538,7 @@
         },
         "background": {
           "mode": "media",
-          "backgroundImage": "./assets/images/background-1.jpg",
+          "backgroundImage": "./assets/images/bg-main-swapped.jpg",
           "backgroundVideo": null,
           "backgroundMediaZoom": 100,
           "backgroundMediaPosX": 50,
@@ -26700,7 +26700,7 @@
                 "backgroundMediaPosY": 55
               },
               "blockBackgroundColor": null,
-              "blockBackgroundImage": "./assets/images/background-3.jpg",
+              "blockBackgroundImage": "./assets/images/bg-section-swapped.jpg",
               "blockFullWidth": false,
               "heroBlockGlass": false,
               "heroBlockGlassBlur": 1,
@@ -36977,7 +36977,7 @@
         },
         "background": {
           "mode": "media",
-          "backgroundImage": "./assets/images/background-1.jpg",
+          "backgroundImage": "./assets/images/bg-main-swapped.jpg",
           "backgroundVideo": null,
           "backgroundMediaZoom": 100,
           "backgroundMediaPosX": 50,
@@ -39018,7 +39018,7 @@
             "backgroundMediaPosY": 55
           },
           "blockBackgroundColor": null,
-          "blockBackgroundImage": "./assets/images/background-3.jpg",
+          "blockBackgroundImage": "./assets/images/bg-section-swapped.jpg",
           "blockFullWidth": false,
           "heroBlockGlass": false,
           "heroBlockGlassBlur": 1,
@@ -49295,7 +49295,7 @@
     },
     "background": {
       "mode": "media",
-      "backgroundImage": "./assets/images/background-1.jpg",
+      "backgroundImage": "./assets/images/bg-main-swapped.jpg",
       "backgroundVideo": null,
       "backgroundMediaZoom": 100,
       "backgroundMediaPosX": 50,
