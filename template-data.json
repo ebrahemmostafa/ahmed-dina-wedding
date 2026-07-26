@@ -1412,7 +1412,7 @@
               "sameLine": false,
               "typographyRole": "title",
               "fontFamily": null,
-              "fontSize": null
+              "fontSize": "20px"
             },
             {
               "id": "hf_1782512984075_ks3e0",
@@ -1425,7 +1425,7 @@
               "sameLine": true,
               "typographyRole": "connector",
               "fontFamily": null,
-              "fontSize": null
+              "fontSize": "20px"
             },
             {
               "id": "hf_1782512984075_f9bev",
@@ -1438,7 +1438,7 @@
               "sameLine": true,
               "typographyRole": "title",
               "fontFamily": null,
-              "fontSize": null
+              "fontSize": "20px"
             },
             {
               "id": "hf_1782512984075_9jnee",
@@ -2872,7 +2872,7 @@
               "sameLine": false,
               "typographyRole": "title",
               "fontFamily": null,
-              "fontSize": null
+              "fontSize": "20px"
             },
             {
               "id": "hf_1782512984075_ks3e0",
@@ -2885,7 +2885,7 @@
               "sameLine": true,
               "typographyRole": "connector",
               "fontFamily": null,
-              "fontSize": null
+              "fontSize": "20px"
             },
             {
               "id": "hf_1782512984075_f9bev",
@@ -2898,7 +2898,7 @@
               "sameLine": true,
               "typographyRole": "title",
               "fontFamily": null,
-              "fontSize": null
+              "fontSize": "20px"
             },
             {
               "id": "hf_1782512984075_9jnee",
