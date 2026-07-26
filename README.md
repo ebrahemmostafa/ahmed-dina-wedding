@@ -1,6 +1,6 @@
 # Inviteness Template Source Code — t-5dfd657ef056fc64
 
-This is the static source bundle for the **Ahmed & Sarra** wedding invitation template
+This is the static source bundle for the **Ahmed & Dina** wedding invitation template
 hosted at `https://inviteness.com/invite-template/t-5dfd657ef056fc64`.
 
 ## Architecture
@@ -51,7 +51,7 @@ Clean entry HTML pointing to local beautified JS/CSS.
 
 ### `template-data.json`
 Full API response containing all invitation content (875 KB). This includes:
-- Couple names (Ahmed & Sarra)
+- Couple names (Ahmed & Dina)
 - Event date, venue, countdown
 - Pre-wedding events, day program, activities
 - RSVP form, gift registry, dress code, menu
