@@ -3,3 +3,44 @@
 @font-face{font-family:'edwardian-ivrg';src:url('../assets/fonts/edwardian.ttf') format('truetype');font-weight:400;font-style:normal;font-display:swap;}
 @font-face{font-family:'product-sans-nu01';src:url('../assets/fonts/product-sans.ttf') format('truetype');font-weight:400;font-style:normal;font-display:swap;}
 @font-face{font-family:'thuluth-vkub';src:url('../assets/fonts/thuluth.ttf') format('truetype');font-weight:400;font-style:normal;font-display:swap;}
+
+/* ============================================================================
+   ROYAL ARABIC DECORATIVE TYPOGRAPHY & RTL LOCALIZATION
+   ============================================================================ */
+
+html, body {
+    direction: rtl;
+    text-align: right;
+    font-family: 'El Messiri', 'Amiri', 'Cairo', 'Noto Naskh Arabic', sans-serif !important;
+}
+
+/* Luxury Arabic Decorative Calligraphy for Headings, Titles & Names */
+h1, h2, h3, h4, h5, h6,
+[class*="title"],
+[class*="heading"],
+[class*="couple"],
+[class*="hero"],
+[class*="names"],
+.font-serif,
+[data-typography="title"],
+[data-typography="h1"],
+[data-typography="h2"],
+[style*="font-family"] {
+    font-family: 'El Messiri', 'Amiri', 'diwani-letter-gta9', 'thuluth-vkub', serif !important;
+    letter-spacing: 0 !important;
+}
+
+/* Elegant Arabic Display for Body, Countdown, Dates & Details */
+p, span, div, button, a, label, input, select, textarea,
+[class*="text"],
+[class*="date"],
+[class*="countdown"],
+[data-typography="body"],
+[data-typography="date"] {
+    font-family: 'El Messiri', 'Amiri', 'Cairo', sans-serif;
+}
+
+/* Exclude SVG / Icons from font override */
+svg, [class*="icon"], i {
+    font-family: inherit !important;
+}
