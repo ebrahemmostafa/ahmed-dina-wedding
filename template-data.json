@@ -7,9 +7,9 @@
     "slug": "t-5dfd657ef056fc64",
     "published": true,
     "supported_languages": [
-      "en"
+      "ar"
     ],
-    "default_invitation_language": "en",
+    "default_invitation_language": "ar",
     "layout_json": [
       {
         "id": "1779098939370",
@@ -18,11 +18,12 @@
         "layout": "e",
         "data": {
           "title": {
-            "en": null,
-            "ar": null
+            "en": "أحمد & دينا",
+            "ar": "أحمد & دينا"
           },
           "subtitle": {
-            "en": null
+            "en": "دعوة لحضور حفل الزفاف",
+            "ar": "دعوة لحضور حفل الزفاف"
           },
           "packageType": "envelope",
           "envelopeStyle": "classic",
@@ -690,12 +691,12 @@
         "appearing": true,
         "data": {
           "title": {
-            "en": null,
-            "ar": null
+            "en": "أحمد & دينا",
+            "ar": "أحمد & دينا"
           },
           "subtitle": {
-            "en": null,
-            "ar": null
+            "en": "7 أوت 2026",
+            "ar": "7 أوت 2026"
           },
           "image": null,
           "design": {
@@ -1392,7 +1393,8 @@
               "name": "Long text 2",
               "type": "long",
               "value": {
-                "ar": "قصةٌ كُتبت بالمودة… واكتملت بالوعد."
+                "ar": "قصةٌ كُتبت بالمودة… واكتملت بالوعد.",
+                "en": "قصةٌ كُتبت بالمودة… واكتملت بالوعد."
               },
               "sameLine": false,
               "typographyRole": "text",
@@ -2799,7 +2801,8 @@
               "name": "Short text 3",
               "type": "short",
               "value": {
-                "ar": "تتشرّف عائلتا"
+                "ar": "تتشرّف عائلتا",
+                "en": "تتشرّف عائلتا"
               },
               "sameLine": false,
               "typographyRole": "text",
@@ -2811,7 +2814,8 @@
               "name": "Parent1",
               "type": "long",
               "value": {
-                "ar": "السيد منير القاسمي"
+                "ar": "السيد منير القاسمي",
+                "en": "السيد منير القاسمي"
               },
               "sameLine": false,
               "typographyRole": "text",
@@ -2836,7 +2840,8 @@
               "name": "Parent2",
               "type": "long",
               "value": {
-                "ar": "السيد هشام الزواري"
+                "ar": "السيد هشام الزواري",
+                "en": "السيد هشام الزواري"
               },
               "sameLine": true,
               "typographyRole": "text",
@@ -2848,7 +2853,8 @@
               "name": "Long text 4",
               "type": "long",
               "value": {
-                "ar": "بدعوتكم لحضور حفل عقد قران ابنيهما"
+                "ar": "بدعوتكم لحضور حفل عقد قران ابنيهما",
+                "en": "بدعوتكم لحضور حفل عقد قران ابنيهما"
               },
               "sameLine": false,
               "typographyRole": "text",
@@ -12166,11 +12172,11 @@
     ],
     "theme_json": {
       "colors": {
-        "primary": "#ce8383",
-        "secondary": "#87332c",
+        "primary": "#c86414",
+        "secondary": "#b87a3d",
         "background": "#FCFCFC",
         "heroBackground": "#ffffff",
-        "text": "#846267"
+        "text": "#4a3525"
       },
       "fonts": {
         "heading": "Great Vibes",
@@ -12192,14 +12198,14 @@
           "color": "#B69647"
         },
         "subtitle": {
-          "color": "#87332c",
+          "color": "#b87a3d",
           "fontSize": "20px",
           "textAlign": "center"
         },
         "text": {
           "fontSize": "20px",
           "textAlign": "center",
-          "color": "#846267"
+          "color": "#4a3525"
         }
       },
       "typography_by_language": {
@@ -12226,14 +12232,14 @@
             "color": "#B69647"
           },
           "subtitle": {
-            "color": "#87332c",
+            "color": "#b87a3d",
             "fontSize": "20px",
             "textAlign": "center"
           },
           "text": {
             "fontSize": "20px",
             "textAlign": "center",
-            "color": "#846267"
+            "color": "#4a3525"
           }
         }
       },
@@ -13691,7 +13697,8 @@
                 "name": "Long text 2",
                 "type": "long",
                 "value": {
-                  "ar": "قصةٌ كُتبت بالمودة… واكتملت بالوعد."
+                  "ar": "قصةٌ كُتبت بالمودة… واكتملت بالوعد.",
+                  "en": "قصةٌ كُتبت بالمودة… واكتملت بالوعد."
                 },
                 "sameLine": false,
                 "typographyRole": "text",
@@ -15098,7 +15105,8 @@
                 "name": "Short text 3",
                 "type": "short",
                 "value": {
-                  "ar": "تتشرّف عائلتا"
+                  "ar": "تتشرّف عائلتا",
+                  "en": "تتشرّف عائلتا"
                 },
                 "sameLine": false,
                 "typographyRole": "text",
@@ -15110,7 +15118,8 @@
                 "name": "Parent1",
                 "type": "long",
                 "value": {
-                  "ar": "السيد منير القاسمي"
+                  "ar": "السيد منير القاسمي",
+                  "en": "السيد منير القاسمي"
                 },
                 "sameLine": false,
                 "typographyRole": "text",
@@ -15135,7 +15144,8 @@
                 "name": "Parent2",
                 "type": "long",
                 "value": {
-                  "ar": "السيد هشام الزواري"
+                  "ar": "السيد هشام الزواري",
+                  "en": "السيد هشام الزواري"
                 },
                 "sameLine": true,
                 "typographyRole": "text",
@@ -15147,7 +15157,8 @@
                 "name": "Long text 4",
                 "type": "long",
                 "value": {
-                  "ar": "بدعوتكم لحضور حفل عقد قران ابنيهما"
+                  "ar": "بدعوتكم لحضور حفل عقد قران ابنيهما",
+                  "en": "بدعوتكم لحضور حفل عقد قران ابنيهما"
                 },
                 "sameLine": false,
                 "typographyRole": "text",
@@ -24465,11 +24476,11 @@
       ],
       "theme_json": {
         "colors": {
-          "primary": "#ce8383",
-          "secondary": "#87332c",
+          "primary": "#c86414",
+          "secondary": "#b87a3d",
           "background": "#FCFCFC",
           "heroBackground": "#ffffff",
-          "text": "#846267"
+          "text": "#4a3525"
         },
         "fonts": {
           "heading": "Great Vibes",
@@ -24491,14 +24502,14 @@
             "color": "#B69647"
           },
           "subtitle": {
-            "color": "#87332c",
+            "color": "#b87a3d",
             "fontSize": "20px",
             "textAlign": "center"
           },
           "text": {
             "fontSize": "20px",
             "textAlign": "center",
-            "color": "#846267"
+            "color": "#4a3525"
           }
         },
         "typography_by_language": {
@@ -24525,14 +24536,14 @@
               "color": "#B69647"
             },
             "subtitle": {
-              "color": "#87332c",
+              "color": "#b87a3d",
               "fontSize": "20px",
               "textAlign": "center"
             },
             "text": {
               "fontSize": "20px",
               "textAlign": "center",
-              "color": "#846267"
+              "color": "#4a3525"
             }
           }
         },
@@ -26130,7 +26141,8 @@
                 "name": "Long text 2",
                 "type": "long",
                 "value": {
-                  "ar": "قصةٌ كُتبت بالمودة… واكتملت بالوعد."
+                  "ar": "قصةٌ كُتبت بالمودة… واكتملت بالوعد.",
+                  "en": "قصةٌ كُتبت بالمودة… واكتملت بالوعد."
                 },
                 "sameLine": false,
                 "typographyRole": "text",
@@ -27537,7 +27549,8 @@
                 "name": "Short text 3",
                 "type": "short",
                 "value": {
-                  "ar": "تتشرّف عائلتا"
+                  "ar": "تتشرّف عائلتا",
+                  "en": "تتشرّف عائلتا"
                 },
                 "sameLine": false,
                 "typographyRole": "text",
@@ -27549,7 +27562,8 @@
                 "name": "Parent1",
                 "type": "long",
                 "value": {
-                  "ar": "السيد منير القاسمي"
+                  "ar": "السيد منير القاسمي",
+                  "en": "السيد منير القاسمي"
                 },
                 "sameLine": false,
                 "typographyRole": "text",
@@ -27574,7 +27588,8 @@
                 "name": "Parent2",
                 "type": "long",
                 "value": {
-                  "ar": "السيد هشام الزواري"
+                  "ar": "السيد هشام الزواري",
+                  "en": "السيد هشام الزواري"
                 },
                 "sameLine": true,
                 "typographyRole": "text",
@@ -27586,7 +27601,8 @@
                 "name": "Long text 4",
                 "type": "long",
                 "value": {
-                  "ar": "بدعوتكم لحضور حفل عقد قران ابنيهما"
+                  "ar": "بدعوتكم لحضور حفل عقد قران ابنيهما",
+                  "en": "بدعوتكم لحضور حفل عقد قران ابنيهما"
                 },
                 "sameLine": false,
                 "typographyRole": "text",
@@ -36904,11 +36920,11 @@
       ],
       "theme_json": {
         "colors": {
-          "primary": "#ce8383",
-          "secondary": "#87332c",
+          "primary": "#c86414",
+          "secondary": "#b87a3d",
           "background": "#FCFCFC",
           "heroBackground": "#ffffff",
-          "text": "#846267"
+          "text": "#4a3525"
         },
         "fonts": {
           "heading": "Great Vibes",
@@ -36930,14 +36946,14 @@
             "color": "#B69647"
           },
           "subtitle": {
-            "color": "#87332c",
+            "color": "#b87a3d",
             "fontSize": "20px",
             "textAlign": "center"
           },
           "text": {
             "fontSize": "20px",
             "textAlign": "center",
-            "color": "#846267"
+            "color": "#4a3525"
           }
         },
         "typography_by_language": {
@@ -36964,14 +36980,14 @@
               "color": "#B69647"
             },
             "subtitle": {
-              "color": "#87332c",
+              "color": "#b87a3d",
               "fontSize": "20px",
               "textAlign": "center"
             },
             "text": {
               "fontSize": "20px",
               "textAlign": "center",
-              "color": "#846267"
+              "color": "#4a3525"
             }
           }
         },
@@ -38448,7 +38464,8 @@
             "name": "Long text 2",
             "type": "long",
             "value": {
-              "ar": "قصةٌ كُتبت بالمودة… واكتملت بالوعد."
+              "ar": "قصةٌ كُتبت بالمودة… واكتملت بالوعد.",
+              "en": "قصةٌ كُتبت بالمودة… واكتملت بالوعد."
             },
             "sameLine": false,
             "typographyRole": "text",
@@ -39855,7 +39872,8 @@
             "name": "Short text 3",
             "type": "short",
             "value": {
-              "ar": "تتشرّف عائلتا"
+              "ar": "تتشرّف عائلتا",
+              "en": "تتشرّف عائلتا"
             },
             "sameLine": false,
             "typographyRole": "text",
@@ -39867,7 +39885,8 @@
             "name": "Parent1",
             "type": "long",
             "value": {
-              "ar": "السيد منير القاسمي"
+              "ar": "السيد منير القاسمي",
+              "en": "السيد منير القاسمي"
             },
             "sameLine": false,
             "typographyRole": "text",
@@ -39892,7 +39911,8 @@
             "name": "Parent2",
             "type": "long",
             "value": {
-              "ar": "السيد هشام الزواري"
+              "ar": "السيد هشام الزواري",
+              "en": "السيد هشام الزواري"
             },
             "sameLine": true,
             "typographyRole": "text",
@@ -39904,7 +39924,8 @@
             "name": "Long text 4",
             "type": "long",
             "value": {
-              "ar": "بدعوتكم لحضور حفل عقد قران ابنيهما"
+              "ar": "بدعوتكم لحضور حفل عقد قران ابنيهما",
+              "en": "بدعوتكم لحضور حفل عقد قران ابنيهما"
             },
             "sameLine": false,
             "typographyRole": "text",
@@ -49222,11 +49243,11 @@
   ],
   "theme": {
     "colors": {
-      "primary": "#ce8383",
-      "secondary": "#87332c",
+      "primary": "#c86414",
+      "secondary": "#b87a3d",
       "background": "#FCFCFC",
       "heroBackground": "#ffffff",
-      "text": "#846267"
+      "text": "#4a3525"
     },
     "fonts": {
       "heading": "Great Vibes",
@@ -49248,14 +49269,14 @@
         "color": "#B69647"
       },
       "subtitle": {
-        "color": "#87332c",
+        "color": "#b87a3d",
         "fontSize": "20px",
         "textAlign": "center"
       },
       "text": {
         "fontSize": "20px",
         "textAlign": "center",
-        "color": "#846267"
+        "color": "#4a3525"
       }
     },
     "typography_by_language": {
@@ -49282,14 +49303,14 @@
           "color": "#B69647"
         },
         "subtitle": {
-          "color": "#87332c",
+          "color": "#b87a3d",
           "fontSize": "20px",
           "textAlign": "center"
         },
         "text": {
           "fontSize": "20px",
           "textAlign": "center",
-          "color": "#846267"
+          "color": "#4a3525"
         }
       }
     },
