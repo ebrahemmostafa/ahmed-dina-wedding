@@ -44,3 +44,70 @@ p, span, div, button, a, label, input, select, textarea,
 svg, [class*="icon"], i {
     font-family: inherit !important;
 }
+
+/* First-scene envelope tap cue */
+.inviteness-envelope-open-cue {
+    bottom: clamp(4.75rem, 11vh, 7rem);
+    width: min(88vw, 22rem);
+    transform: translateX(-50%);
+    text-align: center;
+    color: #7d5f32;
+    text-shadow: 0 1px 8px rgba(255, 255, 255, 0.9);
+    animation: inviteness-envelope-cue-float 2.4s ease-in-out infinite;
+}
+
+.inviteness-envelope-open-cue__label {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 100%;
+    padding: 0.6rem 0.95rem;
+    border: 1px solid rgba(184, 147, 90, 0.36);
+    border-radius: 8px;
+    background: rgba(253, 248, 243, 0.82);
+    box-shadow: 0 8px 24px rgba(61, 46, 26, 0.14);
+    backdrop-filter: blur(7px);
+    -webkit-backdrop-filter: blur(7px);
+    color: #5c4525;
+    font-size: clamp(1rem, 2.8vw, 1.3rem);
+    font-weight: 700;
+    line-height: 1.45;
+    white-space: normal;
+}
+
+.inviteness-envelope-open-cue__arrow {
+    width: clamp(2.8rem, 10vw, 4.6rem);
+    height: auto;
+    margin-bottom: 0.35rem;
+    color: #a05a55;
+    filter: drop-shadow(0 3px 8px rgba(61, 46, 26, 0.24));
+    animation: inviteness-envelope-arrow-bounce 1.05s ease-in-out infinite;
+}
+
+@keyframes inviteness-envelope-cue-float {
+    0%, 100% {
+        transform: translateX(-50%) translateY(0);
+    }
+
+    50% {
+        transform: translateX(-50%) translateY(-0.35rem);
+    }
+}
+
+@keyframes inviteness-envelope-arrow-bounce {
+    0%, 100% {
+        transform: translateY(0);
+        opacity: 0.86;
+    }
+
+    50% {
+        transform: translateY(-0.55rem);
+        opacity: 1;
+    }
+}
+
+@media (max-height: 680px) {
+    .inviteness-envelope-open-cue {
+        bottom: clamp(3.8rem, 8vh, 5.5rem);
+    }
+}
